@@ -230,6 +230,10 @@ h6,
     background: rgba(15, 66, 41, .6);
 }
 
+.quote p{
+    font-weight: bold;
+}
+
 
 /*** Service ***/
 .service-item {
